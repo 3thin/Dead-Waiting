@@ -19,6 +19,6 @@ For now, you wake up in a meat freezer with no clue as to what is going on. You 
 
 Please reference the gif below for help starting the game
 
-https://github.com/3thin/Dead-Waiting/assets/90215095/71b72259-8b7e-4dbd-bccb-205e85940ac3
+![ezgif com-video-to-gif](https://github.com/3thin/Dead-Waiting/assets/90215095/d230d9dc-b5ac-462a-a07a-0b2270b3c647)
 
 By completing various tasks, you can gain or lose health, charisma, and reputation. Based on your skill level, you will fail or complete certain tasks.
